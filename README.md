@@ -1,5 +1,5 @@
-# Try Public APIs for free
-The Public APIs repository is manually curated by community members like you and folks working at [APILayer](https://apilayer.com/?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo). It includes an extensive list of public APIs from many domains that you can use for your own products. Consider it a treasure trove of APIs well-managed by the community over the years.
+# 免费试用公共 API
+Public APIs 仓库由社区成员（包括像您一样的贡献者）以及 [APILayer](https://apilayer.com/?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo) 的工作人员手动维护。它包含了来自多个领域的广泛公共 API 列表，可供您在自己的产品中使用。这是一个由社区多年精心管理的 API 宝库。
 
 <br >
 
@@ -11,9 +11,9 @@ The Public APIs repository is manually curated by community members like you and
     </a>
   </p>
 
-APILayer is the fastest way to integrate APIs into any product. Explore [APILayer APIs](https://apilayer.com/products/?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo) here for your next project.
+APILayer 是将 API 集成到任何产品中的最快方式。在此处探索 [APILayer APIs](https://apilayer.com/products/?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo)，为您的下一个项目做好准备。
 
-Join our [Discord server](https://discord.com/invite/hgjA78638n/?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo) to get updates, ask questions, get answers, random community calls, and more.
+加入我们的 [Discord 服务器](https://discord.com/invite/hgjA78638n/?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo) 以获取更新、提问、获得答案、参与随机社区通话等。
 
 <br >
 
