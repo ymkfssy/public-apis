@@ -1,13 +1,13 @@
-<!-- Thank you for taking the time to work on a Pull Request for this project! -->
-<!-- To ensure your PR is dealt with swiftly please check the following: -->
-- [ ] My submission is formatted according to the guidelines in the [contributing guide](/CONTRIBUTING.md)
-- [ ] My addition is ordered alphabetically
-- [ ] My submission has a useful description
-- [ ] The description does not have more than 100 characters
-- [ ] The description does not end with punctuation
-- [ ] Each table column is padded with one space on either side
-- [ ] I have searched the repository for any relevant issues or pull requests
-- [ ] Any category I am creating has the minimum requirement of 3 items
-- [ ] All changes have been [squashed][squash-link] into a single commit
+<!-- 感谢您花时间为本项目提交 Pull Request！ -->
+<!-- 为确保您的 PR 能快速处理，请检查以下事项： -->
+- [ ] 我的提交按照[贡献指南](/CONTRIBUTING.md)中的格式要求进行了格式化
+- [ ] 我的添加按字母顺序排列
+- [ ] 我的提交包含有用的描述
+- [ ] 描述不超过 100 个字符
+- [ ] 描述末尾没有标点符号
+- [ ] 每个表格列的两侧填充了一个空格
+- [ ] 我已搜索仓库中相关的 Issues 或 Pull Requests
+- [ ] 我创建的任何分类都至少有 3 个条目
+- [ ] 所有更改已[压缩][squash-link]为单个提交
 
 [squash-link]: <https://github.com/todotxt/todo.txt-android/wiki/Squash-All-Commits-Related-to-a-Single-Issue-into-a-Single-Commit>
